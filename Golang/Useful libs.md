@@ -1,0 +1,2 @@
+- tests:
+	- github.com/stretchr/testify
